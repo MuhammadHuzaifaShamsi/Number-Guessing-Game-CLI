@@ -17,7 +17,7 @@ async function startGame(){
         const userGuess = answer.guess;
 
         if(userGuess == randomNumber){
-            console.log("Congrats! You Gessed Right!! \nYou WIN :) ");
+            console.log("Congrats! You Gussed Right!! \nYou WIN :) ");
             break;
         }
         else{
